@@ -22,13 +22,14 @@
 ```cpp
 class Developer {
 public:
-    std::string username = "Flowanny";
-    std::string role = "Reverse Engineer & Game Modder";
-    std::vector<std::string> focus = {
-        "FiveM Game Enhancements",
-        "Anti-Cheat Analysis & Bypass",
-        "Memory Manipulation & Hooking"
-    };
+    {
+  "username": "Flowanny",
+  "role": "Reverse Engineer & Game Modder",
+  "target": "FiveM Game Enhancements",
+  "specialty": "Anti-Cheat Analysis & Bypass",
+  "skills": "Memory Manipulation & Hooking",
+  "status": "Reversing binaries, bypassing limits."
+}
 
     std::string status() {
         return "Reversing binaries, bypassing limits.";
