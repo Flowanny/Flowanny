@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=1&pause=999999&color=00FF66&center=true&vCenter=true&width=300&lines=01+%2F+ABOUT_ME" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=1&pause=999999&color=FF2A2A&center=true&vCenter=true&width=300&lines=01+%2F+ABOUT_ME" />
 </div>
 
 ```cpp
